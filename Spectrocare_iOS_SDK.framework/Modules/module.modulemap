@@ -1,0 +1,4 @@
+framework module Spectrocare_iOS_SDK {
+  header "Spectrocare_iOS_SDK-Swift.h"
+  requires objc
+}
